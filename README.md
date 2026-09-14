@@ -38,65 +38,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Trainerize (ABC Trainerize)](https://www.trainerize.com/)**  
-
-  Established personal training and coaching platform with workout delivery, client management, and studio/gym features.
-
-
-
-- **[Everfit](https://everfit.io/)**  
-
-  Modern online coaching platform known for clean UI, automation, workout builder, and client engagement tools.
-
-
-
-- **[TrueCoach](https://truecoach.co/)**  
-
-  Simple, focused coaching platform popular for 1:1 personal training with straightforward programming and client communication.
-
-
-
-- **[PT Distinction](https://ptdistinction.com/)**  
-
-  Coaching software emphasizing advanced periodization, programming depth, and professional trainer workflows.
-
-
-
-- **[My PT Hub](https://www.mypthub.net/)**  
-
-  All-in-one personal trainer platform offering programming, client management, and business tools at accessible pricing.
-
-
-
-- **[FitBudd](https://www.fitbudd.com/)**  
-
-  White-label focused coaching platform that lets trainers offer branded apps and end-to-end client experiences.
-
-
-
-- **[TrainHeroic](https://www.trainheroic.com/)**  
-
-  Strength-and-conditioning oriented platform used by coaches for team and individual programming.
-
-
-
-- **[Exercise.com](https://www.exercise.com/)**  
-
-  Customizable fitness business platform supporting coaching, gyms, and larger training organizations.
-
-
-
-- **[Coach Catalyst](https://coachcatalyst.com/)**  
-
-  Habit and coaching platform focused on accountability, check-ins, and behavior change alongside training.
-
-
-
-- **[TrainerFu](https://www.trainerfu.com/)**  
-
-  Personal training software for programming, client tracking, and online coaching delivery.
+| SaaS Platform | Description | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Trainerize (ABC Trainerize)](https://www.trainerize.com/)** | Established personal training and coaching platform with workout delivery, client management, and studio/gym features. | $10/month (1 client included; $5/month per extra client) | Free forever plan: 1 client limit; Paid plans have a 30-day free trial |
+| **[Everfit](https://everfit.io/)** | Modern online coaching platform known for clean UI, automation, workout builder, and client engagement tools. | $19/month (Starter plan, billed monthly, up to 5 clients) | Free forever plan: Up to 5 clients limit; Paid plans have a 30-day free trial |
+| **[TrueCoach](https://truecoach.co/)** | Simple, focused coaching platform popular for 1:1 personal training with straightforward programming and client communication. | $29.98/month (Starter plan, billed monthly, up to 5 clients) | 14-day free trial (Full feature access, no credit card required) |
+| **[PT Distinction](https://ptdistinction.com/)** | Coaching software emphasizing advanced periodization, programming depth, and professional trainer workflows. | $19.90/month (Novice plan, up to 3 clients) | 1-month (30-day) free trial |
+| **[My PT Hub](https://www.mypthub.net/)** | All-in-one personal trainer platform offering programming, client management, and business tools at accessible pricing. | $49/month (Standard plan, billed monthly, up to 50 active clients) | 30-day free trial (No credit card required) |
+| **[FitBudd](https://www.fitbudd.com/)** | White-label focused coaching platform that lets trainers offer branded apps and end-to-end client experiences. | $79/month (Starter plan, billed monthly, up to 20 clients) | 14-day free trial |
+| **[TrainHeroic](https://www.trainheroic.com/)** | Strength-and-conditioning oriented platform used by coaches for team and individual programming. | $9.99/month (Individual coach plan for 1 athlete) | 14-day free trial (No credit card required) |
+| **[Exercise.com](https://www.exercise.com/)** | Customizable fitness business platform supporting coaching, gyms, and larger training organizations. | $125/month (Enterprise/Custom custom quote basis; demo required) | Demo access upon request; 7-day demo trial with sales team |
+| **[Coach Catalyst](https://coachcatalyst.com/)** | Habit and coaching platform focused on accountability, check-ins, and behavior change alongside training. | $39/month (Coach plan, billed monthly, up to 12 clients) | 14-day free trial (Full feature access, no credit card required) |
+| **[TrainerFu](https://www.trainerfu.com/)** | Personal training software for programming, client tracking, and online coaching delivery. | $19/month (Basic plan, up to 10 clients) | Free forever plan: Up to 2 clients limit; Paid plans have a 14-day free trial |
 
 
 
